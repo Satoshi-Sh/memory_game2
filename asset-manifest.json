@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memory_game2/static/css/main.d29b3510.css",
-    "main.js": "/memory_game2/static/js/main.a9b30296.js",
+    "main.css": "/memory_game2/static/css/main.92e7a667.css",
+    "main.js": "/memory_game2/static/js/main.e98f250c.js",
     "static/js/787.6ac37266.chunk.js": "/memory_game2/static/js/787.6ac37266.chunk.js",
     "static/media/blue2.png": "/memory_game2/static/media/blue2.d4e11552761fb1ab1d85.png",
     "static/media/astronaut.png": "/memory_game2/static/media/astronaut.a941a65dca07d11846f7.png",
@@ -59,12 +59,12 @@
     "static/media/Playing_card_diamond_2.svg": "/memory_game2/static/media/Playing_card_diamond_2.29b026e6af1203c9dbe7.svg",
     "static/media/Playing_card_diamond_A.svg": "/memory_game2/static/media/Playing_card_diamond_A.b7d08d5f15b9c52871cdc4360f44c0ce.svg",
     "index.html": "/memory_game2/index.html",
-    "main.d29b3510.css.map": "/memory_game2/static/css/main.d29b3510.css.map",
-    "main.a9b30296.js.map": "/memory_game2/static/js/main.a9b30296.js.map",
+    "main.92e7a667.css.map": "/memory_game2/static/css/main.92e7a667.css.map",
+    "main.e98f250c.js.map": "/memory_game2/static/js/main.e98f250c.js.map",
     "787.6ac37266.chunk.js.map": "/memory_game2/static/js/787.6ac37266.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d29b3510.css",
-    "static/js/main.a9b30296.js"
+    "static/css/main.92e7a667.css",
+    "static/js/main.e98f250c.js"
   ]
 }
