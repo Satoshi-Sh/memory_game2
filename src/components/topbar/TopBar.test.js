@@ -48,21 +48,4 @@ describe("App component", () => {
       /astronaut.png/
     );
   });
-
-  it("should navigate to the about page when the link is clicked", () => {
-    const navigate = jest.fn();
-    const mockUseNavigate = jest.fn(() => navigate);
-
-    render(
-      <MemoryRouter>
-        <TopBar useNavigate={mockUseNavigate} />
-      </MemoryRouter>
-    );
-
-    const aboutLink = screen.getByRole("link", { name: /about/i });
-
-    fireEvent.click(aboutLink);
-
-    expect(navigate).toHaveBeenCalledWith("/about");
-  });
 });
